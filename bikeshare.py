@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: Mohamed Kamel Abd Elhamied
+@author: Mohamed Kamel 
 """
 
 import time
